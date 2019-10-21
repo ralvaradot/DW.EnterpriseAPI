@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DW.EnterpriseAPI.Entity\DW.EnterpriseAPI.Entity.csproj" />
+    <ProjectReference Include="..\DW.EnterpriseAPI.Persistence\DW.EnterpriseAPI.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
